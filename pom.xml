@@ -90,3 +90,9 @@
 	</build>
 
 </project>
+
+<properties>
+  <sonar.organization>yannmanux</sonar.organization>
+  
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
